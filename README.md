@@ -91,5 +91,4 @@ The **ESG Analytics Dashboard** offers an interactive platform to explore ESG me
 
 ---
 
-## 🏗️ Project Structure  
 
